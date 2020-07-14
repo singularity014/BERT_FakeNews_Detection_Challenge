@@ -8,9 +8,9 @@ Step by step procedure is present in Google Colab's of
 Problem 1 and Problem 2 in "Detect_fake_news.ipynb" & "SImilarity_News.ipynb" respectively.
 
 Following Model Architectures have been used in achieving the goals - 
-BERT based Classifier Model, 
-BERT based text summarizer Model,
-USE based feature extracter.
+- BERT based Classifier Model, 
+- BERT based text summarizer Model,
+- USE based feature extracter.
 
 Hence, for leveraging the computational GPU benefits of cloud frameworks,
 Google Colab has been used.
