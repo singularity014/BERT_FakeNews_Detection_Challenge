@@ -3,7 +3,7 @@ In this Repo two problem statements are solved -
 
 1) Fake News Detection though a classifier.
 Colab Link(In case if it doesn load via Github) -
-
+https://colab.research.google.com/github/singularity014/BERT_FakeNews_Detection_Challenge/blob/master/Detect_fake_news.ipynb
 
 2) A clustering approach for putting similar narrative news articles in similar cluster group.
 Colab Link(In case if it doesn load via GitHub) - https://colab.research.google.com/github/singularity014/BERT_FakeNews_Detection_Challenge/blob/master/SImilarity_News.ipynb
