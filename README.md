@@ -1,7 +1,7 @@
 In this Repo two problem statements are solved - 
 -----------------------------------------------
 
-1) Fake News Detection though a classifier.
+1) Fake News Detection through a classifier using BERT.
 Colab Link(In case if it doesn load via Github) -
 https://colab.research.google.com/github/singularity014/BERT_FakeNews_Detection_Challenge/blob/master/Detect_fake_news.ipynb
 
